@@ -6,7 +6,7 @@ const Nuevo = () => {
   return (
     <div className="nuevo-container">
       <div className="nuevo-content">
-        <h2>En Meetic, nos tomamos las cosas en serio para ayudarte a empezar una relación seria.</h2>
+        <h2>En UMSA Love, nos tomamos las cosas en serio para ayudarte a empezar una relación seria.</h2>
         <p>
           Cada día, recibirás, por correo electrónico y a través de nuestras notificaciones push,
           selecciones personalizadas de perfiles de personas solteras. Descubre nuestras

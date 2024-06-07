@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #ff6f61; /* Color de fondo del encabezado */
+    background-color: #030637; /* Color de fondo del encabezado */
     padding: 10px 20px;
     color: white;
   }
@@ -14,7 +14,8 @@
   }
   
   .title {
-    font-size: 24px;
+    font-size: 30px;
+    color: #B3093F;
   }
   
   .navigation ul {
