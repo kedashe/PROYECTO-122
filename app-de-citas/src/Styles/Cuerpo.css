@@ -9,6 +9,7 @@
     max-width: 600%; /* Establece el ancho máximo de la imagen al ancho del contenedor */
     max-height: 800px; /* Establece la altura máxima de la imagen */
     object-fit: contain; /* Escala la imagen manteniendo su relación de aspecto */
+    display: inline-block;
   }
   .contenido {
     text-align: center;
@@ -35,6 +36,6 @@
   .texto p {
     font-size: 16px;
     line-height: 1.5;
+    display: inline-block;
+    display: flex;
   }
-  
-  

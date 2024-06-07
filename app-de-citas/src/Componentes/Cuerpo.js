@@ -14,11 +14,15 @@ const Cuerpo = () => {
           <img src="https://iliusstu-a.akamaihd.net/www.meetic.es/hpv-default/events-10d2ab43f65.png" alt="Large Image 2" />
         </div>
         <div className="texto">
-          <h2>ten citas gratis</h2>
+          <h2>ten citas gratisssa</h2>
           <p>Este es el contenido del párrafo. Puedes agregar aquí cualquier texto que desees mostrar junto a la segunda imagen
             kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
             kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-            kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.</p>
+            kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkka.</p>
+      <div className="imagenn">
+        <img src="https://iliusstu-a.akamaihd.net/www.meetic.es/hpv-default/events-10d2ab43f65.png" alt="" />
+      </div>
+            
         </div>
        
       </div>

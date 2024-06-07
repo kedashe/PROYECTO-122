@@ -7,6 +7,8 @@ import Header from "./Componentes/Header"
 import Carrusel from './Componentes/Carrusel';
 import QuienesSomos from './Componentes/QuienesSomos.js';
 import Cuerpo from './Componentes/Cuerpo.js';
+import Nuevo from './Componentes/Nuevo.js';
+import Footer from './Componentes/Footer.js';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -16,7 +18,10 @@ root.render(
     <Header/>
     <Carrusel />
     <QuienesSomos/>
-    <Cuerpo/>
+  
+    <Nuevo/>
+    <Footer/>
+
 
 
   </React.StrictMode>
@@ -26,3 +31,7 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+
+Brayannnnnn
