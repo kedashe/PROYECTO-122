@@ -10,6 +10,7 @@ import Cuerpo from './Componentes/Cuerpo.js';
 import Nuevo from './Componentes/Nuevo.js';
 import Footer from './Componentes/Footer.js';
 import Testimonios from './Componentes/Testimonios.js';
+import Perfiles from './Componentes/Perfiles.js';
 
 
 
@@ -23,6 +24,7 @@ root.render(
   
     <Nuevo/>
     <Testimonios/>
+    <Perfiles/>
     <Footer/>
 
 
