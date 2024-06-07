@@ -9,6 +9,8 @@ import QuienesSomos from './Componentes/QuienesSomos.js';
 import Cuerpo from './Componentes/Cuerpo.js';
 import Nuevo from './Componentes/Nuevo.js';
 import Footer from './Componentes/Footer.js';
+import Testimonios from './Componentes/Testimonios.js';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -20,8 +22,8 @@ root.render(
     <QuienesSomos/>
   
     <Nuevo/>
+    <Testimonios/>
     <Footer/>
-
 
 
   </React.StrictMode>
@@ -34,4 +36,3 @@ reportWebVitals();
 
 
 
-Brayannnnnn

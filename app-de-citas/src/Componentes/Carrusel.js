@@ -4,11 +4,11 @@ import '../Styles/Carrusel.css';
 
 const Carrusel = () => {
   const images = [
-    { src: 'https://media.glamour.mx/photos/6190a329f5ed039ceea877f4/master/w_1600,c_limit/176376.jpg', alt: 'Imagen 1', legend: 'Leyenda 1' },
-    { src: 'https://via.placeholder.com/600x400', alt: 'Imagen 2', legend: 'Leyenda 2' },
-    { src: 'https://via.placeholder.com/600x400', alt: 'Imagen 3', legend: 'Leyenda 3' },
+    { src: 'https://www.lavozdelsur.es/uploads/s1/93/35/34/pexels-cottonbro-7351142.jpeg', alt: 'Imagen 1',  },
+    { src: 'https://images.pexels.com/photos/6800204/pexels-photo-6800204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1', alt: 'Imagen 2',  },
+    { src: 'https://images.pexels.com/photos/8037091/pexels-photo-8037091.jpeg', alt: 'Imagen 3',  },
   ];
-
+  
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const nextSlide = () => {
